@@ -96,28 +96,4 @@ curl -X POST "http://localhost:9191/api/email/generate" \
 }'
 ```
 
-## Key API Endpoints 📡
 
-| Endpoint | Method | Description |
-|----------|--------|-------------|
-| `/api/email/generate` | POST | Generate AI-powered email responses |
-| `/api/email/categorize` | POST | Categorize incoming emails |
-| `/api/email/summarize` | POST | Summarize email threads |
-| `/api/email/analyze-sentiment` | POST | Perform sentiment analysis on email content |
-| `/api/email/schedule-followup` | POST | Schedule follow-up reminders |
-
-## Contributing 🤝
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
-## Acknowledgements 😇
-
-- Spring AI team for the amazing AI integration capabilities
-- Gemini for their powerful language models
-- The Spring Boot community for continuous support and improvements
